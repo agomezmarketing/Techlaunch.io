@@ -32,6 +32,7 @@ include('../parts/head.php'); ?>
                 <?php
                     $classes = "on-page";
                     $program = "web-design-and-digital-marketing";
+                    $check = "yes";
                     include('../parts/get-info-form.php');
                 ?>
             </div>
