@@ -6,9 +6,9 @@
             </a>
             <hr>
             <address>
-                <strong>Miami Campus</strong><br>
+                <div class="custom-address"><strong>Miami Campus</strong><br>
                 7757 W Flagler St #220,<br>
-                Miami, FL 33144 <br>
+                Miami, FL 33144 <br></div>
                 <br>
                 <strong>Miramar Campus</strong><br>
                 3520 Enterprise Way,<br>
