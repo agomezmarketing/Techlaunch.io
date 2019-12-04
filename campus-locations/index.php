@@ -5,6 +5,14 @@ $meta_key="";
 $meta_desc="";
 include('../parts/head.php'); ?>
 <body>
+<style>
+#campus option:first-child {
+    display: none !important;
+}
+#program_name option:nth-child(2) {
+    display: none !important;
+}
+</style>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DZRJ7D"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
