@@ -52,7 +52,7 @@ include('../parts/head.php'); ?>
         <div class="container">
             <h2 class="section-title appear">Program Overview</h2>
             <div class="split-3">
-                <p class="split-box subtitle appear">As a student in our Cyber Security and Network Technician program, you’ll learn about every aspect of Cyber Security – from software distribution and updates and troubleshooting support to implement auditing policy and performing scheduled vulnerability-assessment scans.</p>
+                <p class="split-box subtitle appear">As a student in our Cyber Security and Network Technician program, you’ll learn about every aspect of Cyber Security – from software distribution and updates and troubleshooting support to implementing auditing policy and performing scheduled vulnerability-assessment scans.</p>
                 <p class="split-box subtitle appear">Through lectures, discussions, demonstrations, exercises, and laboratory projects, we’ll introduce the 21st century cloud-based systems administration on Azure and AWS and prepare you to perform all basic configuration procedures to build LAN and WAN interfaces for the most commonly used router protocols.</p>
                 <p class="split-box subtitle appear">Upon completing this program, you’ll be qualified to manage, support, and troubleshoot information systems with Microsoft Windows Server 2012 and Linux, as well as configure Cisco switches and routers.</p>
             </div>
@@ -60,25 +60,25 @@ include('../parts/head.php'); ?>
                 <div class="left">
                     <div class="card appear">
                         <img class="lazyload" data-src="<?= $rootPath ?>images/icons/hands-holding-box.png" alt="hands-holding-box">
-                        <p>Hands-On Cyber Security Program</p>
+                        <p>Hands-on cyber security program</p>
                     </div>
                     <div class="card appear">
                         <img class="lazyload" data-src="<?= $rootPath ?>images/icons/diploma.png" alt="diploma">
-                        <p>36-Week (9-Month) immersive program</p>
+                        <p>36-week (9-Month) immersive program</p>
                     </div>
                     <div class="card appear">
                         <img class="lazyload" data-src="<?= $rootPath ?>images/icons/suit.png" alt="suit">
-                        <p>Career Placement Assistance</p>
+                        <p>Career placement assistance</p>
                     </div>
                     <div class="card appear">
                         <img class="lazyload" data-src="<?= $rootPath ?>images/icons/two-people.png" alt="two-people">
-                        <p>Small Class sizes for one-on-one learning</p>
+                        <p>Small class sizes for one-on-one learning</p>
                     </div>
                 </div>
                 <div class="right">
                     <div class="card appear">
                         <img class="lazyload" data-src="<?= $rootPath ?>images/icons/piggy-bank.png" alt="piggy-bank">
-                        <p>Federal Financial aid available to those who qualify</p>
+                        <p>Federal financial aid available to those who qualify</p>
                     </div>
                     <div class="card appear">
                         <img class="lazyload" data-src="<?= $rootPath ?>images/icons/laptop.png" alt="growing-graph">
