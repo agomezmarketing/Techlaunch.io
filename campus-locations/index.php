@@ -12,6 +12,7 @@ include('../parts/head.php'); ?>
 #program_name option:nth-child(2) {
     display: none !important;
 }
+.custom-address{display: none !important;}
 </style>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DZRJ7D"
